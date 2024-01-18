@@ -5,10 +5,9 @@
 [![MIT License][license-shield]][license-url]
 
 # intelliBOT
+![GIPHY](https://media.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif)
 
-![GIPHY](https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif)
-
-*GIF via [GIPHY](https://giphy.com/gifs/art-code-python-xUOxfoZZhw8HkYWbzG)*
+*GIF via [GIPHY](https://giphy.com/gifs/vaporwave-kotutohum-l41m1CuaT5Oy624Ra)*
 
 
 
