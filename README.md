@@ -5,6 +5,10 @@
 [![MIT License][license-shield]][license-url]
 
 # intelliBOT
+![GIPHY](https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif)
+
+*GIF via [GIPHY](https://giphy.com/gifs/art-code-python-xUOxfoZZhw8HkYWbzG)*
+
 
 intelliBOT is a chat bot designed for the hack.chat platform. It comes with various commands and features to make your chat experience more enjoyable.
 
