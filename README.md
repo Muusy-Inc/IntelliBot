@@ -1,4 +1,4 @@
-[[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -6,8 +6,7 @@
 
 
 # intelliBOT
-
-(https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif)
+![GIPHY](https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif)
 
 *GIF via [GIPHY](https://giphy.com/gifs/art-code-python-xUOxfoZZhw8HkYWbzG)*
 
@@ -64,4 +63,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-](https://gitlab.com/exploit-database/exploitdb.git)https://gitlab.com/exploit-database/exploitdb.git
