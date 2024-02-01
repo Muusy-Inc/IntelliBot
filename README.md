@@ -6,6 +6,7 @@
 
 
 # intelliBOT
+
 ![GIPHY](https://media.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif)
 
 *GIF via [GIPHY](https://giphy.com/gifs/art-code-python-xUOxfoZZhw8HkYWbzG)*
